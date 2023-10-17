@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Variables
 
 ## Variable block
@@ -69,3 +70,6 @@ instance_ip_addr = "172.31.24.95"
 ```
 
 Will be output after `terraform apply` or `terraform output`
+=======
+# terraform-dump
+>>>>>>> 38fa44baa9a704c53c050c6de3b60698d4e66f53
